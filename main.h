@@ -1,7 +1,7 @@
 #ifndef __TETRIS
 #define __TETRIS
 
-#include <ncurses.h>
+#include <curses.h>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

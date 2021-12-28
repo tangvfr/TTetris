@@ -1,3 +1,5 @@
 .vscode
 ttetris
 .conf
+ttetris_linux
+ttetris_win.exe
