@@ -1,5 +1,9 @@
-## TTetris
-Default key:
+# TTetris
+
+## About
+TTetris is a Tetris, I developed it to train me
+
+## Default key
 
  - q
 
