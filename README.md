@@ -1,5 +1,5 @@
 ## TTetris
-#Default key:
+Default key:
 
  - q
 
